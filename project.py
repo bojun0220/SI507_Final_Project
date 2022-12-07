@@ -3,10 +3,10 @@ import os
 import json
 
 
-consumer_key = 'nd4NS71uCJTZGuPOCHN1rM8Zp'
-consumer_secret = 'E1HNKIUcFppyxpRDnKuRunjuyHxIqd5kE2Ks05z8F57YRzwOpM'
-access_token = '1651554944-ufxm9RHaQymvAjFL9uPfYI2BYcM59Q9yasD92Gt'
-access_token_secret = 'bDCsj0TW8niCvwqxqazQW3covotTytLbVbB9dwPRaXAZu'
+consumer_key = 'API_KEY'
+consumer_secret = 'API_KEY_SERECT'
+access_token = 'ACCESS_TOKEN'
+access_token_secret = 'ACCESS_TOKEN_SECRET'
 
 def get_trend(loc):
     '''
